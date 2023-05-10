@@ -1,7 +1,7 @@
 # Comparing Open Source SLAM Algorithms
 
 In order to compare SLAM algorithms their trajectory errors can be
-compared in terms of poisitions and orientations, thus ground truth
+compared in terms of positions and orientations, thus ground truth
 should be generated and GNSS/INS can be used for this purpose.
 
 ## Setup
